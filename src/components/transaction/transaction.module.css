@@ -1,0 +1,13 @@
+.bodyCell {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 100px;
+  background-color: white;
+  color: darkgrey;
+  text-align: center;
+}
+
+.firstCell {
+  padding-left: 20px;
+  text-align: initial;
+}

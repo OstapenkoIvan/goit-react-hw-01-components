@@ -1,0 +1,17 @@
+.transactionHistory {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.headCell {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 100px;
+  background-color: lightskyblue;
+  color: white;
+}
+
+.firstCell {
+  padding-left: 20px;
+  text-align: initial;
+}
