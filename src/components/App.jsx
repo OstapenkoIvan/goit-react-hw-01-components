@@ -1,14 +1,13 @@
 import PropTypes from 'prop-types';
-import user from './profile/user.json';
-import arr from './statistics/data.json';
-import Profile from './profile/profile';
-import Statistics from './statistics/statistics';
-import FriendList from './friendList/friendList';
-import friends from './friendList/friends.json';
-import TransactionHistory from './transactionHistory/transactionHistory';
-import transactions from './transactionHistory/transactions.json';
-import './profile/profile.module.css';
-// import Profile from './profile/profile';
+import Profile from './Profile/Profile';
+import Statistics from './Statistics/Statistics';
+import FriendList from './FriendList/FriendList';
+import TransactionHistory from './TransactionHistory/TransactionHistory';
+import './Profile/profile.module.css';
+import user from '../data/user.json';
+import arr from '../data/data.json';
+import friends from '../data/friends.json';
+import transactions from '../data/transactions.json';
 
 export const App = () => {
   return (

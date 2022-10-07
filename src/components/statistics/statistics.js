@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import s from './statistics.module.css';
 
-import StatList from '../statList/statList';
+import StatList from '../StatList/StatList';
 
 function Statistics({ title, stats }) {
   return (

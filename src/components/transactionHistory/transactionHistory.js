@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import Transaction from '../transaction/transaction';
+import Transaction from '../Transaction/Transaction';
 import s from './transactionHistory.module.css';
 
 function TransactionHistory({ transactions }) {
